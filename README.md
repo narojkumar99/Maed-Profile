@@ -3,10 +3,10 @@
 A new Flutter application.
 
 
-I Will be Making Two UI designes of My own per Week 
+I Will be Making Two UI designes of My own per Week :smile:
 ### Show some :heart: and :star: the repo to support the project and follow me
 
-<img  height=500px width=300px src="https://github.com/BubblyBoy/astu-nav/blob/master/assets/1.png"> 
+<img  height=500px width=300px src="https://github.com/BubblyBoy/Maed-Profile/blob/master/Screenshots/Screenshot_20190521-111637.png"> 
 
 ## Getting Started
 
