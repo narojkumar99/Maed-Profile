@@ -2,6 +2,12 @@
 
 A new Flutter application.
 
+
+I Will be Making Two UI designes of My own per Week 
+### Show some :heart: and :star: the repo to support the project and follow me
+
+<img  height=500px width=300px src="https://github.com/BubblyBoy/astu-nav/blob/master/assets/1.png"> 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
